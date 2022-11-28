@@ -1,0 +1,1 @@
+This is me playing out the exercise shown on this (https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application) tutorial.
